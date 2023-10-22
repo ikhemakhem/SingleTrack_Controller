@@ -1,3 +1,7 @@
+%% 
+% loads the racing track to the workspace and plots it.
+% by Iskandar Khemakhem and Patrick Riedel
+
 v_max = 47.3548;
 %% straight line 1
 x_line1 = linspace(-2.5, -1.2, 50)';

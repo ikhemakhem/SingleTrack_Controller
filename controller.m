@@ -26,8 +26,8 @@ function [U] = controller(X)
 % prepared by J. M. Montenbruck, Dec. 2013 
 % mailto:jan-maximilian.montenbruck@ist.uni-stuttgart.de
 %
-% written by *STUDENT*, *DATE*
-% mailto:*MAILADDRESS*
+% written by *Iskandar Khemakhem* and *Patrick Riedel*, *May 2023*
+% mailto:*iskandar.khemakhem@gmail.com*
 
 
 %%
